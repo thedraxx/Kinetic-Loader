@@ -5,16 +5,13 @@
   </a>
 </p>
 
-> a  Sticky Navbar</br>
+> a Sticky Loader</br>
 
 ## 🦁 Technology I Use: 
 
 ```
-👽 Javascript
 👽 Sass
 👽 HTML5
-
-
 ```
 ## 🔮 Future of this project 
 
